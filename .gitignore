@@ -11,6 +11,5 @@ obj/*
 
 #images forma
 *.xcf
-*.png
 *.bmp
 
