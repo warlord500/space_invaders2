@@ -1,0 +1,16 @@
+# all of the binary files
+bin/*
+obj/*
+*.o
+*.dll
+*.exe
+
+#codeblocks files
+*.depend
+*.layout
+
+#images forma
+*.xcf
+*.png
+*.bmp
+
