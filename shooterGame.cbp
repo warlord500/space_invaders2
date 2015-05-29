@@ -72,7 +72,6 @@
 		<Unit filename="src/enemyManager.cpp" />
 		<Unit filename="src/player.cpp" />
 		<Unit filename="src/playerManager.cpp" />
-		<Unit filename="src/visGameObj.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />

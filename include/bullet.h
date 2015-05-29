@@ -2,13 +2,10 @@
 #define BULLET_H
 #include <SFML/Graphics/Sprite.hpp>
 /**
+    class: bullet
     generic bullet class
     not useful for player or enemy
 
-    inherits:
-        visGameObj
-        because there should only be
-        one visual entinty per bullet.
 */
 class bullet
 {
